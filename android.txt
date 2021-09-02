@@ -1,0 +1,13 @@
+!2021-09-02 20:39:21
+!!Приложение с черным экраном для прослушивания музыки ребенком
+https://translate.yandex.ru/?text=launcher&lang=en-ru
+https://search.f-droid.org/?q=launcher
+https://f-droid.org/packages/io.github.subhamtyagi.lastlauncher/
+https://github.com/SubhamTyagi/Last-Launcher
+https://fossdroid.com/s.html?q=launcher
+https://github.com/OpenLauncherTeam/openlauncher
+https://listoffreeware.com/best-free-open-source-android-launcher-apps/
+https://stackoverflow.com/questions/7107010/android-creating-custom-launcher
+https://www.androidauthority.com/make-a-custom-android-launcher-837342-837342/
+https://www.google.com/search?q=android+launcher+development
+https://www.google.com/search?q=android+launcher+open+source
