@@ -1,3 +1,23 @@
+!2021-09-02 21:16:33
+-- apt install anbox
+-- ему нужен android.img, который не установился
+
+snap info anbox
+snap install --devmode --edge anbox
+-- edge наверно зря, надо было брать beta ка более стабильный
+
+snap run anbox.appmgr
+snap run anbox.android-settings
+
+https://docs.anbox.io/userguide/install_apps.html
+
+snap disable anbox
+snap disable core20
+snap disable snapd
+service snapd stop
+
+
+
 !2021-09-02 20:39:21
 !!Приложение с черным экраном для прослушивания музыки ребенком
 https://translate.yandex.ru/?text=launcher&lang=en-ru
