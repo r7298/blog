@@ -1,3 +1,14 @@
+!2021-09-05 13:00:59
+snap list
+snap restart anbox
+adb devices
+adb -s emulator-5558 install /home/reshu/project/kid-music/build/KidMusic.apk
+
+
+!2021-09-05 12:21:28
+http://www.xiconeditor.com/
+
+
 !2021-09-02 21:16:33
 -- apt install anbox
 -- ему нужен android.img, который не установился
